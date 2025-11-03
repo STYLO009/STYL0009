@@ -41,3 +41,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=styl0009&theme=tokyonight" />
 </p>
 
+---
+
+### 🏅 Holopin Badges
+[![@styl0009's Holopin board](https://holopin.io/api/user/board?user=styl0009)](https://holopin.io/@styl0009)
