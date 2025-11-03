@@ -35,17 +35,9 @@
 | [💪 Fitness Tracker](https://github.com/STYL0009/Fitness-Tracker) | Custom home-based workout planner | JS, LocalStorage |
 
 ---
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=STYL0009&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=STYL0009&theme=tokyonight" />
-</p>
-
----
-
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=styl0009&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=styl0009&theme=tokyonight" />
 </p>
+
